@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, awaitility, graalvm, gradle, http-client-test, junit, kafka, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, reactor, readme, serialization-jackson, shade, spotless, static-resources, test-resources, yaml, yaml-build]
